@@ -33,7 +33,7 @@ AraMAData combines Wikipedia-derived passages with separately authored annotatio
 
 ## 4. Passage-level provenance
 
-Each released passage should be associated with a source article URL and, where available, an exact Wikipedia revision identifier, an extraction date, a description of modifications, and the verified source license. `PROVENANCE_TEMPLATE.csv` provides the required **column structure only** and contains no verified passage-level records yet. The final provenance file must be populated with genuine source metadata before being represented as complete.
+Each released passage should be associated with a source article URL and, where available, an exact Wikipedia revision identifier, an extraction date, a description of modifications, and the verified source license. `PROVENANCE_TEMPLATE.csv` provides the required **column structure only** and contains no verified passage-level records yet.
 
 ## 5. Current availability
 
