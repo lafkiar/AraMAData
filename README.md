@@ -28,7 +28,7 @@ Four Arabic-speaking volunteers manually created the MCQs, correct answers, and 
 
 The project repository is public, but **the complete AraMAData dataset has not yet been publicly released**. Repository visibility does not imply that the entire dataset is available or that unrestricted downstream rights have been granted to unreleased materials.
 
-The full dataset will be released after the passage-level source records and the applicable notices for the released components have been verified and completed. Any published dataset files and their applicable license terms will be identified explicitly at the time of release.
+The full dataset will be released after the passage-level source records and the applicable notices for the released components have been verified and completed.
 
 ## Attribution and Permissions
 
