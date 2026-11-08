@@ -23,7 +23,7 @@ The project does not claim copyright ownership over the underlying Wikipedia tex
 
 ## 2. Original volunteer-authored annotations
 
-Four Arabic-speaking volunteers manually authored the question, answer, and distractor annotations. All four have provided **documented authorization for publication, distribution, and reuse of their original annotations**. The confirmation records are maintained privately; no personal correspondence is published in this repository.
+Four Arabic-speaking volunteers manually authored the question, answer, and distractor annotations. All four have provided **authorization for publication, distribution, and reuse of their original annotations**. The confirmation records are maintained privately; no personal correspondence is published in this repository.
 
 These permissions are **already obtained**, not permissions that the project is still seeking. The public release documentation will specify the scope of the permissions available to downstream users for the particular released files. At present **no additional standard license is asserted here for the entire assembled resource**; do not assume that a CC license has already been applied to the annotations merely because the Wikipedia passages carry one.
 
